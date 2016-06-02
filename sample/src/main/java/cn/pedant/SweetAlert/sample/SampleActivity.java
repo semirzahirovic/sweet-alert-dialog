@@ -32,6 +32,11 @@ public class SampleActivity extends Activity implements View.OnClickListener {
                 // default title "Here's a message!"
                 SweetAlertDialog sd = new SweetAlertDialog(this);
                 sd.setCancelable(true);
+                sd.setBackgroundColor(getColor(android.R.color.black));
+                sd.setBackgroundColorNegativeButton(getColor(android.R.color.holo_red_dark));
+                sd.setBackgroundColorPositiveButton(getColor(android.R.color.holo_green_light));
+                sd.setTextColorTitle(getColor(android.R.color.holo_blue_dark));
+                sd.setBackgroundDrawablePositiveButton(getDrawable(R.drawable.abc_ab_share_pack_holo_dark));
                 sd.setCanceledOnTouchOutside(true);
                 sd.show();
                 break;
@@ -162,5 +167,9 @@ public class SampleActivity extends Activity implements View.OnClickListener {
                 }.start();
                 break;
         }
+    }
+
+    @Override protected void onStop() {
+        super.onStop();
     }
 }
