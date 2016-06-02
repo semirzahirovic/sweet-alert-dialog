@@ -1,0 +1,10 @@
+-classpath '/Users/semirzahirovic/Library/Android/sdk/platforms/android-23/android.jar'
+-d '/Users/semirzahirovic/sweet-alert-dialog/library/build/docs/javadoc'
+-doctitle 'library 1.3 API'
+-quiet 
+-windowtitle 'library 1.3 API'
+'/Users/semirzahirovic/sweet-alert-dialog/library/src/main/java/cn/pedant/SweetAlert/OptAnimationLoader.java'
+'/Users/semirzahirovic/sweet-alert-dialog/library/src/main/java/cn/pedant/SweetAlert/ProgressHelper.java'
+'/Users/semirzahirovic/sweet-alert-dialog/library/src/main/java/cn/pedant/SweetAlert/Rotate3dAnimation.java'
+'/Users/semirzahirovic/sweet-alert-dialog/library/src/main/java/cn/pedant/SweetAlert/SuccessTickView.java'
+'/Users/semirzahirovic/sweet-alert-dialog/library/src/main/java/cn/pedant/SweetAlert/SweetAlertDialog.java'
