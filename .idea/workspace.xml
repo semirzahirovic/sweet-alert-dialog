@@ -10,32 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="61f6b5fd-300c-4776-bc6a-d7719f13086a" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/appcompat_v7_21_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/materialish_progress_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_annotations_21_0_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/support_v4_21_0_0.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.10/tasks/_sample_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/cn.pedant.sweetalert-library-1.3_0ebfd0412161533ce8205f8e2c676613145b739d.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/cn.pedant.sweetalert-library-1.3_0ebfd0412161533ce8205f8e2c676613145b739d.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.0_ec1b895ddfe877577539f3cfad2fb50f717d367b.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.0_ec1b895ddfe877577539f3cfad2fb50f717d367b.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_31972464ad13114fa42b4c7f6c35f5ce70176c38.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.android.support-support-v4-21.0.0_31972464ad13114fa42b4c7f6c35f5ce70176c38.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.0_90fb33befaeb23dab036877a666208eb3b977de3.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/com.pnikosis-materialish-progress-1.0_90fb33befaeb23dab036877a666208eb3b977de3.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/debug_4578ca19bf0c95bfee65eb60a6352beab0d537cc.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/debug_4578ca19bf0c95bfee65eb60a6352beab0d537cc.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_73d786b945f7510262c1c0315e3b6492759fba89.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/internal_impl-21.0.0_73d786b945f7510262c1c0315e3b6492759fba89.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_c93a4324e3252050f97a43ebe2b41e1805119610.jar" afterPath="$PROJECT_DIR$/sample/build/intermediates/pre-dexed/debug/support-annotations-21.0.0_c93a4324e3252050f97a43ebe2b41e1805119610.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/outputs/apk/sample-debug-unaligned.apk" afterPath="$PROJECT_DIR$/sample/build/outputs/apk/sample-debug-unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/build/outputs/apk/sample-debug.apk" afterPath="$PROJECT_DIR$/sample/build/outputs/apk/sample-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/gradlew" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/build.gradle" afterPath="$PROJECT_DIR$/library/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/library/library.iml" afterPath="$PROJECT_DIR$/library/library.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sample/sample.iml" afterPath="$PROJECT_DIR$/sample/sample.iml" />
     </list>
@@ -106,6 +82,16 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/library/src/main/AndroidManifest.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12465374">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="gradle-wrapper.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,10 +102,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gradle.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gradle.properties">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.54545456">
+            <state vertical-scroll-proportion="0.0">
               <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
@@ -146,24 +132,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SweetAlertDialog.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/library/src/main/java/cn/pedant/SweetAlert/SweetAlertDialog.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="SampleActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sample/src/main/java/cn/pedant/SweetAlert/sample/SampleActivity.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="38" column="105" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
-              <folding />
+              <folding>
+                <element signature="imports" expanded="false" />
+                <element signature="e#9103#9104#0" expanded="false" />
+                <element signature="e#9133#9134#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -921,9 +899,9 @@
                 <option name="name" value="prePackageMarkerForRelease" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.semirzahirovic:library:1.3" />
+                <option name="description" value="Prepare cn.pedant.sweetalert:library:1.3" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGithubSemirzahirovicLibrary13Library" />
+                <option name="name" value="prepareCnPedantSweetalertLibrary13Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -2073,6 +2051,11 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare cn.pedant.sweetalert:library:1.3" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/sample" />
+                <option name="name" value="prepareCnPedantSweetalertLibrary13Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:appcompat-v7:21.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/sample" />
                 <option name="name" value="prepareComAndroidSupportAppcompatV72100Library" />
@@ -2081,11 +2064,6 @@
                 <option name="description" value="Prepare com.android.support:support-v4:21.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/sample" />
                 <option name="name" value="prepareComAndroidSupportSupportV42100Library" />
-              </ExternalTaskPojo>
-              <ExternalTaskPojo>
-                <option name="description" value="Prepare com.github.semirzahirovic:library:1.3" />
-                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/sample" />
-                <option name="name" value="prepareComGithubSemirzahirovicLibrary13Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.pnikosis:materialish-progress:1.0" />
@@ -2693,10 +2671,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -2713,6 +2691,48 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="sweet-alert-dialog" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sweet-alert-dialog" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sweet-alert-dialog" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SweetAlert" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sweet-alert-dialog" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="library" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -3000,7 +3020,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="728" extended-state="0" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626426" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3008,15 +3028,15 @@
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3251634" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3251634" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.49030694" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3251634" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3251634" sideWeight="0.509693" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24959612" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
@@ -3050,14 +3070,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/sample/src/main/java/cn/pedant/SweetAlert/sample/SampleActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="38" column="105" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -3127,7 +3139,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6805#6806#0" expanded="false" />
+            <element signature="e#13455#13456#0" expanded="false" />
+            <element signature="e#13482#13483#0" expanded="false" />
+            <element signature="e#13530#13531#0" expanded="false" />
+            <element signature="e#13573#13574#0" expanded="false" />
+            <element signature="e#13607#13608#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#14309#14310#0" expanded="false" />
+            <element signature="e#14338#14339#0" expanded="false" />
+            <element signature="e#14623#14624#0" expanded="false" />
+            <element signature="e#14651#14652#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#14943#14944#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
+            <element signature="e#15236#15237#0" expanded="false" />
+            <element signature="e#15507#15508#0" expanded="false" />
+            <element signature="e#15536#15537#0" expanded="false" />
+            <element signature="e#16265#16266#0" expanded="false" />
+            <element signature="e#16301#16302#0" expanded="false" />
+            <element signature="e#16439#16440#0" expanded="false" />
+            <element signature="e#16476#16477#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3136,7 +3171,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="105" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9103#9104#0" expanded="false" />
+            <element signature="e#9133#9134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3209,7 +3248,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6805#6806#0" expanded="false" />
+            <element signature="e#13455#13456#0" expanded="false" />
+            <element signature="e#13482#13483#0" expanded="false" />
+            <element signature="e#13530#13531#0" expanded="false" />
+            <element signature="e#13573#13574#0" expanded="false" />
+            <element signature="e#13607#13608#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#14309#14310#0" expanded="false" />
+            <element signature="e#14338#14339#0" expanded="false" />
+            <element signature="e#14623#14624#0" expanded="false" />
+            <element signature="e#14651#14652#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#14943#14944#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
+            <element signature="e#15236#15237#0" expanded="false" />
+            <element signature="e#15507#15508#0" expanded="false" />
+            <element signature="e#15536#15537#0" expanded="false" />
+            <element signature="e#16265#16266#0" expanded="false" />
+            <element signature="e#16301#16302#0" expanded="false" />
+            <element signature="e#16439#16440#0" expanded="false" />
+            <element signature="e#16476#16477#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3218,7 +3280,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="105" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9103#9104#0" expanded="false" />
+            <element signature="e#9133#9134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3268,7 +3334,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6805#6806#0" expanded="false" />
+            <element signature="e#13455#13456#0" expanded="false" />
+            <element signature="e#13482#13483#0" expanded="false" />
+            <element signature="e#13530#13531#0" expanded="false" />
+            <element signature="e#13573#13574#0" expanded="false" />
+            <element signature="e#13607#13608#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#14309#14310#0" expanded="false" />
+            <element signature="e#14338#14339#0" expanded="false" />
+            <element signature="e#14623#14624#0" expanded="false" />
+            <element signature="e#14651#14652#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#14943#14944#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
+            <element signature="e#15236#15237#0" expanded="false" />
+            <element signature="e#15507#15508#0" expanded="false" />
+            <element signature="e#15536#15537#0" expanded="false" />
+            <element signature="e#16265#16266#0" expanded="false" />
+            <element signature="e#16301#16302#0" expanded="false" />
+            <element signature="e#16439#16440#0" expanded="false" />
+            <element signature="e#16476#16477#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3284,7 +3373,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9103#9104#0" expanded="false" />
+            <element signature="e#9133#9134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3334,7 +3427,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6805#6806#0" expanded="false" />
+            <element signature="e#13455#13456#0" expanded="false" />
+            <element signature="e#13482#13483#0" expanded="false" />
+            <element signature="e#13530#13531#0" expanded="false" />
+            <element signature="e#13573#13574#0" expanded="false" />
+            <element signature="e#13607#13608#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#14309#14310#0" expanded="false" />
+            <element signature="e#14338#14339#0" expanded="false" />
+            <element signature="e#14623#14624#0" expanded="false" />
+            <element signature="e#14651#14652#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#14943#14944#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
+            <element signature="e#15236#15237#0" expanded="false" />
+            <element signature="e#15507#15508#0" expanded="false" />
+            <element signature="e#15536#15537#0" expanded="false" />
+            <element signature="e#16265#16266#0" expanded="false" />
+            <element signature="e#16301#16302#0" expanded="false" />
+            <element signature="e#16439#16440#0" expanded="false" />
+            <element signature="e#16476#16477#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3350,7 +3466,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9103#9104#0" expanded="false" />
+            <element signature="e#9133#9134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3383,7 +3503,30 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="286" column="54" selection-start-line="286" selection-start-column="54" selection-end-line="286" selection-end-column="54" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#6769#6770#0" expanded="false" />
+            <element signature="e#6805#6806#0" expanded="false" />
+            <element signature="e#13455#13456#0" expanded="false" />
+            <element signature="e#13482#13483#0" expanded="false" />
+            <element signature="e#13530#13531#0" expanded="false" />
+            <element signature="e#13573#13574#0" expanded="false" />
+            <element signature="e#13607#13608#0" expanded="false" />
+            <element signature="e#13634#13635#0" expanded="false" />
+            <element signature="e#14309#14310#0" expanded="false" />
+            <element signature="e#14338#14339#0" expanded="false" />
+            <element signature="e#14623#14624#0" expanded="false" />
+            <element signature="e#14651#14652#0" expanded="false" />
+            <element signature="e#14914#14915#0" expanded="false" />
+            <element signature="e#14943#14944#0" expanded="false" />
+            <element signature="e#15208#15209#0" expanded="false" />
+            <element signature="e#15236#15237#0" expanded="false" />
+            <element signature="e#15507#15508#0" expanded="false" />
+            <element signature="e#15536#15537#0" expanded="false" />
+            <element signature="e#16265#16266#0" expanded="false" />
+            <element signature="e#16301#16302#0" expanded="false" />
+            <element signature="e#16439#16440#0" expanded="false" />
+            <element signature="e#16476#16477#0" expanded="false" />
+            <element signature="e#17185#17186#0" expanded="false" />
+            <element signature="e#17217#17218#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -3399,7 +3542,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="38" column="105" selection-start-line="38" selection-start-column="105" selection-end-line="38" selection-end-column="105" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#9103#9104#0" expanded="false" />
+            <element signature="e#9133#9134#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3443,10 +3590,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sample/build.gradle">
+    <entry file="file://$PROJECT_DIR$/gradle.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -3459,10 +3606,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/gradle.properties">
+    <entry file="file://$PROJECT_DIR$/sample/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.54545456">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/library/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12465374">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding />
         </state>
       </provider>
