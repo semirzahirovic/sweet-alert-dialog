@@ -8,12 +8,12 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
 
     defaultConfig {
-        minSdkVersion 9
+        minSdkVersion 16
         targetSdkVersion 21
     }
 
     lintOptions {
-        abortOnError false
+        abortOnError true
     }
 
     buildTypes {

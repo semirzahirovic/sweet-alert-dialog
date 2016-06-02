@@ -36,7 +36,7 @@ public class SampleActivity extends Activity implements View.OnClickListener {
                 sd.setBackgroundColorNegativeButton(getColor(android.R.color.holo_red_dark));
                 sd.setBackgroundColorPositiveButton(getColor(android.R.color.holo_green_light));
                 sd.setTextColorTitle(getColor(android.R.color.holo_blue_dark));
-                sd.setBackgroundDrawablePositiveButton(getDrawable(R.drawable.abc_ab_share_pack_holo_dark));
+                //sd.setBackgroundDrawablePositiveButton(getDrawable(R.drawable.abc_ab_share_pack_holo_dark));
                 sd.setCanceledOnTouchOutside(true);
                 sd.show();
                 break;
